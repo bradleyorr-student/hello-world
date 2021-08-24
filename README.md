@@ -6,4 +6,4 @@ My name is Bradley and this is my repo that I am creating. I am currently a CS m
 
 This is where I plan to store ideas, resources, and even share and discuss things with others.
 
-Here is a [link](www.linkedin.com/in/bradley-orr-14177a15a) to my LinkedIn page.
+Here is a [link](www.linkedin.com/in/bradley-orr-14177a15a) to my LinkedIn page. :smile:
